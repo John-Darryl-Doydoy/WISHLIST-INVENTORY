@@ -1,0 +1,324 @@
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\appsettings.json
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\SantaWishList.exe
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\SantaWishList.deps.json
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\SantaWishList.runtimeconfig.json
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\SantaWishList.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\SantaWishList.pdb
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.AssemblyReference.cache
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.AssemblyInfoInputs.cache
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.AssemblyInfo.cs
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.CoreCompileInputs.cache
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.SantaWishList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.build.SantaWishList.props
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SantaWishList.props
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SantaWishList.props
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\scopedcss\bundle\SantaWishList.styles.css
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.CopyComplete
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\refint\SantaWishList.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.pdb
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.genruntimeconfig.cache
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\ref\SantaWishList.dll
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.Properties.Resources.resources
+C:\Users\Roseville\Desktop\2ND YEAR\3RD TERM; F2F\IT128L\LE2\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.GenerateResource.cache
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\appsettings.json
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.exe
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.deps.json
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.runtimeconfig.json
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.pdb
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.AssemblyReference.cache
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.Properties.Resources.resources
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.GenerateResource.cache
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.AssemblyInfoInputs.cache
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.AssemblyInfo.cs
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.SantaWishList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.build.SantaWishList.props
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SantaWishList.props
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SantaWishList.props
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\scopedcss\bundle\SantaWishList.styles.css
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.CopyComplete
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\refint\SantaWishList.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.pdb
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.genruntimeconfig.cache
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaWishList\obj\Debug\net6.0\ref\SantaWishList.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.exe
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.deps.json
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.runtimeconfig.json
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\SantaWishList.pdb
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.Properties.Resources.resources
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.AssemblyInfo.cs
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.SantaWishList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.build.SantaWishList.props
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SantaWishList.props
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SantaWishList.props
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\scopedcss\bundle\SantaWishList.styles.css
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.CopyComplete
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\refint\SantaWishList.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.pdb
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\SantaWishList.genruntimeconfig.cache
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaWishList\obj\Debug\net6.0\ref\SantaWishList.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\appsettings.json
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\SantaWishList.exe
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\SantaWishList.deps.json
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\SantaWishList.runtimeconfig.json
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\SantaWishList.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\SantaWishList.pdb
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.AssemblyReference.cache
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.Properties.Resources.resources
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.GenerateResource.cache
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.AssemblyInfoInputs.cache
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.AssemblyInfo.cs
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.CoreCompileInputs.cache
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.SantaWishList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.build.SantaWishList.props
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SantaWishList.props
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SantaWishList.props
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\scopedcss\bundle\SantaWishList.styles.css
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.csproj.CopyComplete
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\refint\SantaWishList.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.pdb
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\SantaWishList.genruntimeconfig.cache
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaWishList\obj\Debug\net6.0\ref\SantaWishList.dll

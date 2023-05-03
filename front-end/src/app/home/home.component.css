@@ -1,0 +1,106 @@
+header{
+    background: #bd3633;
+    color: white;
+    box-shadow: 0 0 1px 5px rgb(0,0,0,0.2);
+}
+
+header h2{
+    padding:0.5em 0;
+    text-align: center;
+}
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.home-flex{
+    display: flex;
+}
+
+.ttl{
+    color:#034f1e;
+}
+
+.add-item{
+    width: 20%;
+   margin-left:1em;
+   border-radius: 15px;
+  margin-right: .5em;
+}
+.add-item{
+    background: #e5dcb3;
+height: 86vh;
+border-radius: 5px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding:2em;
+    background: #e5dcb3;
+}
+
+.right{
+    width: 80%;
+    margin:1em;
+    margin-right: 2em;
+}
+
+.wishlist{
+    width: 100%;
+   
+    background:#e5dcb3;
+    padding:1em;
+    border-radius: 5px;
+    height: 73.5vh;
+    overflow-y: scroll;
+}
+
+.btn-table{
+border-radius: 50%;
+}
+
+.tbl-img{
+    width: 200px;
+}
+
+th,td{
+    text-align: center;
+}
+
+.tbl-header{
+    background: #bd3633;
+    color:#e5dcb3;
+    letter-spacing: 3px;
+}
+
+td button{
+    margin:1em;
+}
+
+tr{
+    border-left: 1px solid #bd3633;
+    border-bottom: 1px solid #bd3633;
+    border-right: 1px solid #bd3633;
+}
+
+.table-content{
+    margin-top:1.2em
+}
+
+.btn-primary{
+    background:#034f1e ;
+    border: none;
+    color:#e5dcb3;
+}
+
+.overview{
+    display: flex;
+    justify-content: end;
+}
+.overview-row{
+    background-color: #e5dcb3;
+    margin-top:.5em;
+    margin-left:1.5em;
+    padding:.5em;
+    padding-left: 8em;
+    text-align: right;
+    border-radius: 5px;
+}

@@ -1,0 +1,26 @@
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\bin\Debug\SantaDB.dacpac
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\bin\Debug\SantaDB.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\bin\Debug\SantaDB.pdb
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\obj\Debug\SantaDB.sqlproj.AssemblyReference.cache
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\obj\Debug\SantaDB.dll
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\obj\Debug\SantaDB.pdb
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\obj\Debug\Model.xml
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\obj\Debug\refactor.xml
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\obj\Debug\postdeploy.sql
+C:\Users\Bryan Pablo\OneDrive\Desktop\project\SantaDB\obj\Debug\predeploy.sql
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\bin\Debug\SantaDB.dacpac
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\bin\Debug\SantaDB.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\bin\Debug\SantaDB.pdb
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\obj\Debug\SantaDB.sqlproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\obj\Debug\Model.xml
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\obj\Debug\refactor.xml
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\obj\Debug\postdeploy.sql
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\obj\Debug\predeploy.sql
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\obj\Debug\SantaDB.dll
+C:\Users\PC\OneDrive - Mapúa University\Desktop\project\SantaDB\obj\Debug\SantaDB.pdb
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaDB\bin\Debug\SantaDB.dacpac
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaDB\bin\Debug\SantaDB.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaDB\bin\Debug\SantaDB.pdb
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaDB\obj\Debug\SantaDB.sqlproj.AssemblyReference.cache
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaDB\obj\Debug\SantaDB.dll
+C:\Users\John Darryl Doydoy\Desktop\Project\project\SantaDB\obj\Debug\SantaDB.pdb
